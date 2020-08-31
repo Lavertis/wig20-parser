@@ -1,5 +1,5 @@
-# WIG20_Parser
-Learning how to parse data from web sites using jsoup in Java
+# WIG20 parser
+Learning how to parse data from websites using jsoup in Java
 
 ![](images/Result.PNG)
 
